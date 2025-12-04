@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neharai2/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/neharai2/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/neharai2/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neharai2/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/neharai2/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
