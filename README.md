@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neharai2/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/neharai2/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/neharai2/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/neharai2/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/neharai2/Leetcode-DSA/tree/master/0724-find-pivot-index) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/neharai2/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/neharai2/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/neharai2/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neharai2/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/neharai2/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/neharai2/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/neharai2/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Binary Tree
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/neharai2/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/neharai2/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neharai2/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/neharai2/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
