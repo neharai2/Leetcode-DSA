@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/neharai2/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
@@ -147,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/neharai2/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
