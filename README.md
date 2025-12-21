@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/neharai2/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/neharai2/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/neharai2/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/neharai2/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/neharai2/Leetcode-DSA/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/neharai2/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
