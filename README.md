@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neharai2/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/neharai2/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/neharai2/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/neharai2/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/neharai2/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/neharai2/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neharai2/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/neharai2/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/neharai2/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neharai2/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/neharai2/Leetcode-DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/neharai2/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/neharai2/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/neharai2/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neharai2/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/neharai2/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
@@ -152,5 +157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/neharai2/Leetcode-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/neharai2/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/neharai2/Leetcode-DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
