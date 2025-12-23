@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/neharai2/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/neharai2/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/neharai2/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/neharai2/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/neharai2/Leetcode-DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/neharai2/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/neharai2/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neharai2/Leetcode-DSA/tree/master/0242-valid-anagram) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neharai2/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/neharai2/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/neharai2/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/neharai2/Leetcode-DSA/tree/master/0242-valid-anagram) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/neharai2/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/neharai2/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/neharai2/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/neharai2/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
