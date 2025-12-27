@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/neharai2/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/neharai2/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/neharai2/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/neharai2/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/neharai2/Leetcode-DSA/tree/master/0242-valid-anagram) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/neharai2/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/neharai2/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
