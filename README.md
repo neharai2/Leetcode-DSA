@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/neharai2/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/neharai2/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/neharai2/Leetcode-DSA/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/neharai2/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/neharai2/Leetcode-DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Math
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/neharai2/Leetcode-DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/neharai2/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/neharai2/Leetcode-DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Tree
 |  |
