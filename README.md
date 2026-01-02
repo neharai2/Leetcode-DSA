@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/neharai2/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/neharai2/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/neharai2/Leetcode-DSA/tree/master/0981-time-based-key-value-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/neharai2/Leetcode-DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Tree
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/neharai2/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/neharai2/Leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/neharai2/Leetcode-DSA/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/neharai2/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/neharai2/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0981-time-based-key-value-store](https://github.com/neharai2/Leetcode-DSA/tree/master/0981-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -228,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/neharai2/Leetcode-DSA/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/neharai2/Leetcode-DSA/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
