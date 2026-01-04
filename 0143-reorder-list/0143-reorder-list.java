@@ -10,36 +10,61 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        if(head==null||head.next==null) return;
-            
-            //Find the middle of the list
-            ListNode p1=head;
-            ListNode p2=head;
-            while(p2.next!=null&&p2.next.next!=null){ 
-                p1=p1.next;
-                p2=p2.next.next;
-            }
-            
-            //Reverse the half after middle  1->2->3->4->5->6 to 1->2->3->6->5->4
-            ListNode preMiddle=p1;
-            ListNode preCurrent=p1.next;
-            while(preCurrent.next!=null){
-                ListNode current=preCurrent.next;
-                preCurrent.next=current.next;
-                current.next=preMiddle.next;
-                preMiddle.next=current;
-            }
-            
-            //Start reorder one by one  1->2->3->6->5->4 to 1->6->2->5->3->4
-            p1=head;
-            p2=preMiddle.next;
-            while(p1!=preMiddle){
-                preMiddle.next=p2.next;
-                p2.next=p1.next;
-                p1.next=p2;
-                p1=p2.next;
-                p2=preMiddle.next;
-            }
+
+        if(head == null || head.next == null){
+            return;
         }
+     ListNode l1 = head;
+     ListNode slow = head;
+     ListNode fast = head;
+     ListNode prev = null;
+
+     while(fast != null && fast.next != null){
+        prev = slow;
+        slow = slow.next;
+        fast = fast.next.next;
+     }
+     prev.next = null;
+
+     ListNode l2 = reverse(slow);
+     merge(l1, l2);
+
+
+    }
+
+    public ListNode reverse(ListNode head){
+        ListNode prev = null;
+        ListNode current_node = head;
+
+        while(current_node != null){
+            ListNode next_node = current_node.next;
+            current_node.next = prev;
+            prev = current_node;
+            current_node = next_node;
+
+
+        }
+        return prev;
+    }
+
+    public void merge(ListNode l1, ListNode l2){
+        while(l1 != null){
+        ListNode l1_next = l1.next;
+        ListNode l2_next = l2.next;
+
+        l1.next = l2;
+        if(l1_next == null){
+        break;
+
+        }
+
+        l2.next = l1_next;
+
+        l1 = l1_next;
+        l2 = l2_next;
+        }
+
+
+
+    }
 }
-    
