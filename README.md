@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/neharai2/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/neharai2/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/neharai2/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/neharai2/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/neharai2/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/neharai2/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neharai2/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/neharai2/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/neharai2/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/neharai2/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/neharai2/Leetcode-DSA/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0202-happy-number) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/neharai2/Leetcode-DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/neharai2/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/neharai2/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
