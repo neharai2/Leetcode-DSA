@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/neharai2/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/neharai2/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/neharai2/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0098-validate-binary-search-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neharai2/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/neharai2/Leetcode-DSA/tree/master/0162-find-peak-element) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/neharai2/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
