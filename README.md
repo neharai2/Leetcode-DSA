@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/neharai2/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/neharai2/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/neharai2/Leetcode-DSA/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/neharai2/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/neharai2/Leetcode-DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/neharai2/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1629-slowest-key](https://github.com/neharai2/Leetcode-DSA/tree/master/1629-slowest-key) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neharai2/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/neharai2/Leetcode-DSA/tree/master/0338-counting-bits) |
+| [0746-min-cost-climbing-stairs](https://github.com/neharai2/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Prefix Sum
 |  |
 | ------- |
