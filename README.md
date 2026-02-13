@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/neharai2/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/neharai2/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/neharai2/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/neharai2/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/neharai2/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/neharai2/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/neharai2/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/neharai2/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/neharai2/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neharai2/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/neharai2/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/neharai2/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
