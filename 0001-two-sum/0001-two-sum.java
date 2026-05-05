@@ -4,18 +4,15 @@ class Solution {
         HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
     
 
-        for (int i = 0; i < nums.length; i++) {
+        for(int i =0; i<nums.length; i++){
             int needed = target - nums[i];
 
-            if (map.containsKey(needed)) {
-                return new int[] { map.get(needed), i };
+            if(map.containsKey(needed)){
+                return new int[] {map.get(needed), i};
             }
 
             map.put(nums[i], i);
         }
-
-        return new int[] {}; // fallback
+        return new int[] {};
     }
-
-    
 }
