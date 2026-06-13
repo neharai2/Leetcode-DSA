@@ -1,12 +1,7 @@
-SELECT
-    d.name AS Department,
-    e.name AS Employee,
-    e.salary AS Salary
-FROM Employee e
-JOIN Department d
-    ON e.departmentId = d.id
-WHERE (e.departmentId, e.salary) IN (
-    SELECT departmentId, MAX(salary)
-    FROM Employee
-    GROUP BY departmentId
-);
+SELECT Department.name AS Department , Employee.name AS Employee , Salary
+FROM Employee 
+LEFT JOIN Department
+ON Employee.departmentID = Department.id
+WHERE(DepartmentID, salary) IN 
+(SELECT DepartmentId , MAX(Salary) FROM Employee
+GROUP BY DepartmentID)
