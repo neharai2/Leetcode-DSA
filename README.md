@@ -373,4 +373,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/neharai2/Leetcode-DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/neharai2/Leetcode-DSA/tree/master/0511-game-play-analysis-i) |
 | [0620-not-boring-movies](https://github.com/neharai2/Leetcode-DSA/tree/master/0620-not-boring-movies) |
+| [1179-reformat-department-table](https://github.com/neharai2/Leetcode-DSA/tree/master/1179-reformat-department-table) |
 <!---LeetCode Topics End-->
