@@ -4,19 +4,20 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        char1 = list(s)
-        char1.sort()
-        char2 = list(t)
-        char2.sort()
 
-        if char1 == char2:
-            return True
+        freq = {}
+        for c in s:
+            freq[c] = freq.get(c, 0)+1
 
-        else:
-            return False
+        for c in t:
+            if c not in freq:
+                return False
 
+            freq[c] -=1
 
+            if freq[c] < 0:
+                return False
 
-        
+        return True
 
         
