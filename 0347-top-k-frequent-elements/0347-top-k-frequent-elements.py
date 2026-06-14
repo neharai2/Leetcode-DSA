@@ -4,10 +4,8 @@ class Solution:
         freq = {}
 
         for num in nums:
-            if num in freq:
-                freq[num]+=1
-            else:
-                freq[num] = 1
+            freq[num] = freq.get(num, 0)+1
+            
 
 
         sorted_freq = sorted(freq.items(), key = lambda x : x[1], reverse =True)
