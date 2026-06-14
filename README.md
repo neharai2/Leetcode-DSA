@@ -375,5 +375,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/neharai2/Leetcode-DSA/tree/master/0511-game-play-analysis-i) |
 | [0620-not-boring-movies](https://github.com/neharai2/Leetcode-DSA/tree/master/0620-not-boring-movies) |
 | [1179-reformat-department-table](https://github.com/neharai2/Leetcode-DSA/tree/master/1179-reformat-department-table) |
+| [1484-group-sold-products-by-the-date](https://github.com/neharai2/Leetcode-DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1661-average-time-of-process-per-machine](https://github.com/neharai2/Leetcode-DSA/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
