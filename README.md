@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/neharai2/Leetcode-DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/neharai2/Leetcode-DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/neharai2/Leetcode-DSA/tree/master/0511-game-play-analysis-i) |
+| [0584-find-customer-referee](https://github.com/neharai2/Leetcode-DSA/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/neharai2/Leetcode-DSA/tree/master/0620-not-boring-movies) |
 | [1179-reformat-department-table](https://github.com/neharai2/Leetcode-DSA/tree/master/1179-reformat-department-table) |
 | [1484-group-sold-products-by-the-date](https://github.com/neharai2/Leetcode-DSA/tree/master/1484-group-sold-products-by-the-date) |
